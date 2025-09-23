@@ -7,4 +7,5 @@ export default defineConfig({
   // If you are deploying to a subdirectory, for example https://<user>.github.io/<repo>/,
   // you need to set the base property to '/<repo>/'.
   // base: '/your-repo-name/',
+  base: './',
 })
